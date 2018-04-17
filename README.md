@@ -60,9 +60,9 @@ What is the next thing you need to work on?
 * [Python](https://docs.python.org/3/) - The programming language used
 * [PostgreSQL](https://www.postgresql.org/) - Database Management
 
-## Authors
+## Author
 
-* **Kelsey Nowell**
+**Kelsey Nowell**
 
 ## Acknowledgments
 
