@@ -1,4 +1,4 @@
-# Water you up to in Austin?
+# Water you building in Austin?
 
 This project is trying to predict residential and commercial water consumption based on the city's building permit data. Understanding how water demand in various tract areas of Austin is driven by metrics of our city's development and growth allows for better resource planning and provides targeted insight for efficiency efforts.
 
